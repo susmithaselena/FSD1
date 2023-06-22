@@ -1,0 +1,15 @@
+.body{
+    background-color: antiquewhite;
+}
+.p{
+    text-align: center;
+    text-decoration: solid;
+}
+.tab1{
+    margin: 3%;
+    border: 2px dashed black;
+    padding: 2%;
+}
+.table th td{
+    border: 1px solid black;
+}
